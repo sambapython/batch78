@@ -1,0 +1,13 @@
+!DOCTYPE html>
+<html>
+<head><title>Ex1</title></head>
+
+<body>
+<h1>javascript can change html</h1>
+<p="demo>"this script is changed.</p>
+<button type=button
+onclick="document.getelement by id('demo')inner.html
+
+Click me!</button>
+</body>
+</html>

@@ -1,0 +1,10 @@
+INFO:root:strt the program
+DEBUG:root:before conversion: n1=12, n2=3
+DEBUG:root:after conversion: n1=12, n2=3
+DEBUG:root:result=4.0
+INFO:root:end
+2021-09-28 06:25:30,511->INFO==>strt the program
+2021-09-28 06:25:32,442->DEBUG==>before conversion: n1=12, n2=0
+2021-09-28 06:25:32,443->DEBUG==>after conversion: n1=12, n2=0
+2021-09-28 06:25:32,443->ERROR==>ERROR: division by zero
+2021-09-28 06:25:32,444->INFO==>end
